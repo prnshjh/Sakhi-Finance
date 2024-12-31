@@ -85,7 +85,7 @@ export const howItWorksData = [
   },
 ];
 
-// Testimonials Data
+// features Data
 export const testimonialsData = [
   {
     name: "Sarah Johnson",

@@ -115,7 +115,7 @@ export default function EmailTemplate({
             )}
 
             <Text style={styles.footer}>
-              Thank you for using Welth. Keep tracking your finances for better
+              Thank you for using Sakhi-Finance. Keep tracking your finances for better
               financial health!
             </Text>
           </Container>
