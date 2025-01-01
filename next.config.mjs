@@ -4,7 +4,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: "https",
-        hostname: "randomuser.me",
+        hostname: "img.icons8.com",
       },
     ],
   },

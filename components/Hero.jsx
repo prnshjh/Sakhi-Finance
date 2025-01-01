@@ -31,11 +31,12 @@ const HeroSection = () => {
   return (
     <div className="pb-20 px-4">
       <div className="container mx-auto text-center">
-         <h1 className="text-5xl md:text-8xl lg:text-[105px] pb-6 gradient-title">
-            Manage Your Finances <br /> With Intelligence
-         </h1>
+         <h1 className="text-5xl md:text-8xl lg:text-[80px] pb-6 gradient-title">
+            Manage Your Finances <br /> With Intelligence <br /> Using Sakhi-Finance
+         </h1> <br></br>
          <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-            An AI-powered financial management platform that helps you track, analyze, and optimize your spending with real-time insights.
+            An AI-powered fintech platform that helps you with financial education, micro-investments, and secure banking with real-time insights in an accessible, user-friendly app.
+           
          </p>
          <div className="flex justify-center space-x-4 ">
             <Link href="/dashboard">
@@ -49,12 +50,12 @@ const HeroSection = () => {
          <div className="hero-image-wrapper">
             <div ref={imageRef} className="hero-image">
                <Image 
-                  src="/banner.jpeg"
+                  src="/banner.jpg"
                   alt="banner"
                   width={1280}
                   height={720}
                   priority
-                  className="rounded-lg shadow-2xl border mx-auto"
+                  className="rounded-lg shadow-[0px_4px_15px_rgba(0,0,255,0.3)] mx-auto"
                />
             </div>
          </div>

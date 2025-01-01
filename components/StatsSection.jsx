@@ -111,8 +111,7 @@ const DataSection = () => {
             Ready To Take Control Of Your Finances?
           </h2>
           <p className="text-blue-100 mb-8 max-w-2xl mx-auto">
-            Join thousands of users who are already managing their finances 
-            smarter with Sakhi Finance
+          Join us to Manage Your Finances Smarter with <b>Sakhi Finance</b>, <br /> Empowering Rural Women for a Brighter Financial Future!
           </p>
           <Link href="/dashboard">
             <Button size="lg" className="bg-white text-blue-600 hover:bg-blue-100 shadow-xl animate-bounce"> 

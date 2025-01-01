@@ -10,22 +10,23 @@ import {
 // Stats Data
 export const statsData = [
   {
-    value: "50K+",
-    label: "Active Users",
+    value: "24/7",
+    label: "Mentorship Support",
   },
   {
-    value: "$2B+",
-    label: "Transactions Tracked",
+    value: "₹10",
+    label: "Micro-Investment Starting",
   },
   {
-    value: "99.9%",
-    label: "Uptime",
+    value: "5+",
+    label: "Local Languages Supported",
   },
   {
-    value: "4.9/5",
-    label: "User Rating",
+    value: "50+",
+    label: "NGO Schemes Integrated",
   },
 ];
+
 
 // Features Data
 export const featuresData = [
@@ -88,24 +89,24 @@ export const howItWorksData = [
 // features Data
 export const testimonialsData = [
   {
-    name: "Sarah Johnson",
-    role: "Small Business Owner",
-    image: "https://randomuser.me/api/portraits/women/75.jpg",
+    name: "NGO & Schemes",
+    // role: "Small Business Owner",
+    image: "https://img.icons8.com/color/48/jordanian-mukhabarat.png",
     quote:
-      "Welth has transformed how I manage my business finances. The AI insights have helped me identify cost-saving opportunities I never knew existed.",
+      "The NGO feature connects users to relevant schemes and initiatives, providing additional support and resources to enhance financial empowerment.",
   },
   {
-    name: "Michael Chen",
-    role: "Freelancer",
-    image: "https://randomuser.me/api/portraits/men/75.jpg",
+    name: "Learn Finance",
+    // role: "Freelancer",
+    image: "https://img.icons8.com/parakeet/48/investment.png",
     quote:
-      "The receipt scanning feature saves me hours each month. Now I can focus on my work instead of manual data entry and expense tracking.",
+      "The Financial Literacy feature offers personalized lessons in local languages, using simple examples, stories, and videos to make learning about money easy and practical.",
   },
   {
-    name: "Emily Rodriguez",
-    role: "Financial Advisor",
-    image: "https://randomuser.me/api/portraits/women/74.jpg",
+    name: "Investment Support",
+    // role: "Financial Advisor",
+    image: "https://img.icons8.com/color/48/money-box--v1.png",
     quote:
-      "I recommend Welth to all my clients. The multi-currency support and detailed analytics make it perfect for international investors.",
+      "The Investment Support feature provides safe, micro-investment options starting at ₹10, helping users grow their savings with confidence and ease.",
   },
 ];
