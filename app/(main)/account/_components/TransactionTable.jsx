@@ -371,7 +371,7 @@ const TransactionTable = ({ transactions }) => {
                     }}
                   >
                     {transaction.type === "EXPENSE" ? "-" : "+"}
-                    {transaction.amount.toFixed(2)} Rs
+                    ₹{transaction.amount.toFixed(2)}
                   </TableCell>
                   <TableCell>
                     {transaction.isRecurring ? (
